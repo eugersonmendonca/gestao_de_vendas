@@ -1,4 +1,4 @@
-Dashboard gestão de vendas
+Dashboard de Gestão de Vendas
 
 ![dashboard_gestão_vendas](https://github.com/user-attachments/assets/f90aeccb-4a94-4105-ada1-fbcb70f70ca3)
 
@@ -15,3 +15,5 @@ Visualização de dados;
 Publicação;
 
 Link: <a>https://app.powerbi.com/groups/me/reports/a9ab297f-17fe-4912-b224-9696c6153db9?ctid=e13ad2a9-9987-4e58-98fb-e610c84471d5&pbi_source=linkShare</a>
+
+@Empowerdata
