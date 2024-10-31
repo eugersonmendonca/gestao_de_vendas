@@ -5,14 +5,16 @@ Dashboard de Gestão de Vendas
 
 Etapas criação dashboard gestão vendas:
 
-Obtenção da base de dados;
-Analise exploratória da base de dados(entender o que pode tirar dos dados);
-Tratamento de dados (Coluna: produto, quantidade, preço unitário);
-Pensar nas analises que podem ser feitas;
-Definição do faturamento;
-Definição ticket médio (média de cada venda, coluna: valor venda);
-Visualização de dados;
-Publicação;
+<ul>
+<li>Obtenção da base de dados;</li>
+<li>Analise exploratória da base de dados(entender o que pode tirar dos dados);</li>
+<li>Tratamento de dados (Coluna: produto, quantidade, preço unitário);</li>
+<li>Pensar nas analises que podem ser feitas;</li>
+<li>Definição do faturamento;</li>
+<li>Definição ticket médio (média de cada venda, coluna: valor venda);</li>
+<li>Visualização de dados;</li>
+<li>Publicação;</li>
+</ul>
 
 Link: :link: <a href="https://app.powerbi.com/groups/me/reports/a9ab297f-17fe-4912-b224-9696c6153db9?ctid=e13ad2a9-9987-4e58-98fb-e610c84471d5&pbi_source=linkShare">Visualizar no Power BI</a>
 
