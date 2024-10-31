@@ -1,9 +1,9 @@
-Dashboard de Gestão de Vendas
+<h4>Dashboard de Gestão de Vendas</h4>
 
 ![dashboard_gestão_vendas](https://github.com/user-attachments/assets/f90aeccb-4a94-4105-ada1-fbcb70f70ca3)
 
 
-Etapas criação dashboard gestão vendas:
+<h4>Etapas criação dashboard gestão vendas:</h4>
 
 <ul>
 <li>Obtenção da base de dados;</li>
